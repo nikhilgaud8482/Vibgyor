@@ -1,0 +1,18 @@
+# Ignore virtual environment
+env/
+
+# Ignore database config or any sensitive file
+Mainproject/my.cnf
+
+# Ignore __pycache__ folders
+__pycache__/
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE settings (optional, based on your editor)
+.vscode/
+.idea/
+MainProjectFrontEnd/vibgyor/node_modules
